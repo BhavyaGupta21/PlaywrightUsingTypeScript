@@ -1,9 +1,9 @@
 import { Locator, Page } from "@playwright/test";
 
 export class HomePage {
-    readonly page: Page;
-    readonly accountBtn: Locator;
-    readonly logoutBtn: Locator;
+    private readonly page: Page;
+    private readonly accountBtn: Locator;
+    private readonly logoutBtn: Locator;
 
     constructor(page:Page) {
         this.accountBtn = page.locator('.oxd-userdropdown-tab');
