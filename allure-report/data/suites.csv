@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","11194","Login Conduit test using POM","chromium","Fri Oct 11 17:25:00 IST 2024","passed","Fri Oct 11 17:25:12 IST 2024","","pomTestWithFixtures.spec.ts","",""
