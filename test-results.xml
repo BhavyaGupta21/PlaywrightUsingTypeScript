@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="10.962647">
+<testsuite name="pomTestWithFixtures.spec.ts" timestamp="2024-10-11T11:33:29.165Z" hostname="chromium" tests="1" failures="0" skipped="0" time="9.004" errors="0">
+<testcase name="Login Conduit test using POM" classname="pomTestWithFixtures.spec.ts" time="9.004">
+</testcase>
+</testsuite>
+</testsuites>
